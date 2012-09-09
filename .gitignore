@@ -1,0 +1,8 @@
+# Gedit Temps #
+###################
+*~
+.settings
+.buildpath
+.project
+
+
